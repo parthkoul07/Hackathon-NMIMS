@@ -1,0 +1,7 @@
+{
+    "autoplay": true,
+    "template": "noctx",
+    "backend": "webgl",
+    "cache": "none",
+    "preload": false
+}
